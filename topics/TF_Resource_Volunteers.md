@@ -337,18 +337,18 @@ Below is a list of all pages that belong to this wiki. If the link to the page i
 | [Temporal data](Temporal_data) | | | |
 | **Topic Circles:** | --- | --- | --- |
 | [Activity-based models](Activity_based_models) | Venu Garikapati | | |
-| [Dynamic network models](Dynamic_network_models) | | | |
+| [Dynamic network models](Dynamic_network_models) | Eric Pihl | | |
 | [Evaluation and performance](Evaluation_and_performance) | | | |
 | [Innovations in Travel Modeling](Innovations_in_Travel_Modeling) |Julie Dunbar | | |
 | [Model calibration and validation](Model_calibration_and_validation) | | | |
 | [Model integration](Model_integration) | | | |
 | [Travel surveys](Travel_surveys) | Chiara Calastri | 16 Dec. 2019 | Page incomplete |
 | **Transportation Networks:** | --- | --- | --- |
-| [Average Annual Daily Traffic](Average_Annual_Daily_Traffic) | | | |
+| [Average Annual Daily Traffic](Average_Annual_Daily_Traffic) | Eric Pihl | | |
 | [Average Daily Traffic](Average_Daily_Traffic) | | | |
 | [Design Hourly Volume](Design_Hourly_Volume) | | | |
 | [Guidelines for Network Representation of Transit Access - State of the Practice Summary](Guidelines_for_Network_Representation_of_Transit_Access_State_of_the_Practice_Summary) | | | |
-| [Highway networks](Highway_networks) | | | |
+| [Highway networks](Highway_networks) | Eric Pihl | | |
 | [Transit Route](Transit_Route) |Julie Dunbar | | |
 | [Transit networks](Transit_networks) |Julie Dunbar | | |
 | [Transportation networks](Transportation_networks) | | | |
@@ -381,8 +381,8 @@ Below is a list of all pages that belong to this wiki. If the link to the page i
 | **Trip Based Models:** | --- | --- | --- |
 | [Big Picture](Big_Picture) |Julie Dunbar | | |
 | [Delay Estimation in Trip-Based Models](Delay_Estimation_in_Trip_Based_Models) | | | |
-| [Network assignment](Network_assignment) | | | |
-| [Origin-Destination](Origin_Destination) | | | |
+| [Network assignment](Network_assignment) | Eric Pihl | | |
+| [Origin-Destination](Origin_Destination) | Eric Pihl| | |
 | [Skim Matrix](Skim_Matrix) | Rolf | | |
 | [Traffic Analysis Zone](Traffic_Analysis_Zone) | Rolf | | |
 | [Trip interchange](Trip_interchange) |Venu Garikapati | | |
